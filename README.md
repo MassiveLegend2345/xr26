@@ -19,7 +19,6 @@ Welcome to the Metaverse
 - [5 Games Made in Godot to inspire you each week](https://www.youtube.com/@stayathomedev) 
 - [Game dev news channel](https://www.youtube.com/@gamefromscratch)
 - [Godot discord](https://discord.com/invite/godotengine)
-- [Class discord](https://discord.gg/tB7F77ZsZe)
 - [Godot Gaedhleach](https://discord.gg/mku9aNaM3)
 
 ## Week 3 - XR
