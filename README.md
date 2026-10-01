@@ -1,4 +1,4 @@
-# TU856/TU857/TU858/TU984 Games Engines 1/XR Prototyping 2025
+# TU856/TU857/TU858/TU984 Games Engines 1/eXtended Reality 2026
 
 [What is Games Engines?](https://bryanduggan.org/2024/09/05/what-is-games-engines/)
 
@@ -21,14 +21,19 @@ Welcome to the Metaverse
 - [Godot discord](https://discord.com/invite/godotengine)
 - [Godot Gaedhleach](https://discord.gg/mku9aNaM3)
 
-## Week 3 - XR
+## Notes
+
+## Week 3 - XR Nodes
+
+## Lab
 
 
-## Week 2 - Godot Fundamentals
+## Week 2 - Intro to Godot - Main elements
 
-## Week 1
+## Lab
+Setting up headsets
 
-### Lab
+## Week 1 - Intro to the course
 
 Clone these repos and explore:
 
