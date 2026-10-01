@@ -3,7 +3,11 @@
 ## Your design brief:
 
 # The Soul Takes Birth, Takes Incarnation - To Learn
-- Ram Dass
+- Ram Dass 1931–2019
+
+![Ram Dass](images/Fiorello-Ram-Dass-lead-1192561023.jpg)
+
+- [A lovely song to inspire you](https://youtu.be/n4pHXsoE75s?si=LU5tkCowSNyi6_n3)
 
 Your goal is to create an XR experience that a user can learn from. This can be music, storytelling, game design, programming, boolean logic, history, a language, how to tie a knot, how to make a cup of tea - whatever skill or knowledge you have - pass it on. Place the human learner at the center of the experience and teach them. Your design should be human created. You are free to work alone or as a team of up to 3.
 
