@@ -1,0 +1,34 @@
+[gd_scene format=3 uid="uid://bvx5cttswkdtb"]
+
+[ext_resource type="Script" uid="uid://drsypfr4dvd3r" path="res://addons/godot-xr-tools/player/player_body.gd" id="1_vwqiv"]
+
+[sub_resource type="Environment" id="Environment_yu5ic"]
+
+[sub_resource type="CameraAttributesPhysical" id="CameraAttributesPhysical_vwqiv"]
+
+[sub_resource type="Compositor" id="Compositor_2nlyf"]
+
+[sub_resource type="QuadMesh" id="QuadMesh_fma13"]
+
+[node name="XROrigin3D" type="XROrigin3D" unique_id=46184225]
+
+[node name="XRCamera3D" type="XRCamera3D" parent="." unique_id=731980814]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0.74819005)
+environment = SubResource("Environment_yu5ic")
+attributes = SubResource("CameraAttributesPhysical_vwqiv")
+compositor = SubResource("Compositor_2nlyf")
+current = true
+fov = 37.849285
+
+[node name="Node3D" type="Node3D" parent="." unique_id=768424931]
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="." unique_id=421009740]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -1.4860358)
+mesh = SubResource("QuadMesh_fma13")
+
+[node name="XRToolsPlayerBody" type="CharacterBody3D" parent="." unique_id=1482862371]
+top_level = true
+script = ExtResource("1_vwqiv")
+metadata/_custom_type_script = "uid://drsypfr4dvd3r"
+
+[node name="XRController3D" type="XRController3D" parent="." unique_id=280753144]
